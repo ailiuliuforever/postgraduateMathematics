@@ -1,0 +1,220 @@
+{
+  "nodes": [
+    {
+      "id": "ddb4d89e0f66ac1a",
+      "type": "text",
+      "text": "不定积分的概念和性质",
+      "shape": "centered-rectangle",
+      "x": 275,
+      "y": -407,
+      "width": 185,
+      "height": 60
+    },
+    {
+      "id": "c850f671d36eafc6",
+      "type": "text",
+      "text": "原函数",
+      "shape": "oval",
+      "x": 580,
+      "y": -604,
+      "width": 194,
+      "height": 50
+    },
+    {
+      "id": "b7eddf9bd417861e",
+      "type": "text",
+      "text": "不定积分的性质",
+      "shape": "oval",
+      "x": 580,
+      "y": -258,
+      "width": 195,
+      "height": 60
+    },
+    {
+      "id": "ab84c9917d114a4d",
+      "type": "text",
+      "text": "不定积分",
+      "shape": "oval",
+      "x": 580,
+      "y": -525,
+      "width": 195,
+      "height": 60
+    },
+    {
+      "id": "5fd24c6affc50c23",
+      "type": "text",
+      "text": "不定积分的几何意义",
+      "shape": "oval",
+      "x": 580,
+      "y": -436,
+      "width": 195,
+      "height": 60
+    },
+    {
+      "id": "520299a45961bd54",
+      "type": "text",
+      "text": "原函数存在定理",
+      "shape": "oval",
+      "x": 580,
+      "y": -347,
+      "width": 195,
+      "height": 60
+    },
+    {
+      "id": "bd6d005cef4a3ef7",
+      "type": "text",
+      "text": "不定积分",
+      "shape": "circle",
+      "x": -200,
+      "y": -20,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "87c4fe3824aa3dd3",
+      "x": 264,
+      "y": 206,
+      "width": 196,
+      "height": 60,
+      "type": "text",
+      "text": "三种主要积分法"
+    },
+    {
+      "id": "33e4419737de5e33",
+      "type": "text",
+      "text": "不定积分的基本公式",
+      "shape": "centered-rectangle",
+      "x": 275,
+      "y": -20,
+      "width": 185,
+      "height": 60
+    },
+    {
+      "id": "dc4e530ae8c93470",
+      "type": "text",
+      "text": "第一换元积分法",
+      "shape": "oval",
+      "x": 560,
+      "y": 69,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a117d7e4e367e912",
+      "type": "text",
+      "text": "第二换元积分法",
+      "shape": "oval",
+      "x": 560,
+      "y": 206,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "20e06b37c575d992",
+      "type": "text",
+      "text": "分布积分法",
+      "shape": "oval",
+      "x": 555,
+      "y": 345,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1aebd338115a19bb",
+      "type": "text",
+      "text": "三类常见可积分函数积分",
+      "shape": "centered-rectangle",
+      "x": 264,
+      "y": 600,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "bc61e513c216a03e",
+      "fromNode": "bd6d005cef4a3ef7",
+      "fromSide": "right",
+      "toNode": "ddb4d89e0f66ac1a",
+      "toSide": "left"
+    },
+    {
+      "id": "5ab0d83dba07eb39",
+      "fromNode": "ddb4d89e0f66ac1a",
+      "fromSide": "right",
+      "toNode": "c850f671d36eafc6",
+      "toSide": "left"
+    },
+    {
+      "id": "33470ae7813bd83f",
+      "fromNode": "ddb4d89e0f66ac1a",
+      "fromSide": "right",
+      "toNode": "ab84c9917d114a4d",
+      "toSide": "left"
+    },
+    {
+      "id": "fe78c4c6f9948c4f",
+      "fromNode": "ddb4d89e0f66ac1a",
+      "fromSide": "right",
+      "toNode": "5fd24c6affc50c23",
+      "toSide": "left"
+    },
+    {
+      "id": "850645d4c4723ddb",
+      "fromNode": "ddb4d89e0f66ac1a",
+      "fromSide": "right",
+      "toNode": "520299a45961bd54",
+      "toSide": "left"
+    },
+    {
+      "id": "631bf2fd101eee99",
+      "fromNode": "ddb4d89e0f66ac1a",
+      "fromSide": "right",
+      "toNode": "b7eddf9bd417861e",
+      "toSide": "left"
+    },
+    {
+      "id": "8b019e8f626ecbc8",
+      "fromNode": "bd6d005cef4a3ef7",
+      "fromSide": "right",
+      "toNode": "33e4419737de5e33",
+      "toSide": "left"
+    },
+    {
+      "id": "022dd12c12c75f4d",
+      "fromNode": "bd6d005cef4a3ef7",
+      "fromSide": "right",
+      "toNode": "87c4fe3824aa3dd3",
+      "toSide": "left"
+    },
+    {
+      "id": "3ca7a03e7227b004",
+      "fromNode": "87c4fe3824aa3dd3",
+      "fromSide": "right",
+      "toNode": "dc4e530ae8c93470",
+      "toSide": "left"
+    },
+    {
+      "id": "61b17472de045224",
+      "fromNode": "87c4fe3824aa3dd3",
+      "fromSide": "right",
+      "toNode": "a117d7e4e367e912",
+      "toSide": "left"
+    },
+    {
+      "id": "4344006dab3d061c",
+      "fromNode": "87c4fe3824aa3dd3",
+      "fromSide": "right",
+      "toNode": "20e06b37c575d992",
+      "toSide": "left"
+    },
+    {
+      "id": "3766de6bc1ff731e",
+      "fromNode": "bd6d005cef4a3ef7",
+      "fromSide": "right",
+      "toNode": "1aebd338115a19bb",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

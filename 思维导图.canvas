@@ -1,0 +1,610 @@
+{
+  "nodes": [
+    {
+      "id": "a1f23d454e06720a",
+      "type": "group",
+      "isCollapsed": true,
+      "x": -2120,
+      "y": 0,
+      "width": 2840,
+      "height": 1640,
+      "color": "2",
+      "label": "1-2 极限"
+    },
+    {
+      "id": "9662d356f071429a",
+      "type": "group",
+      "x": 880,
+      "y": 520,
+      "width": 1420,
+      "height": 1554,
+      "color": "2",
+      "label": "2-2 导数公式与求导法则"
+    },
+    {
+      "id": "55d167e2e692c7a5",
+      "type": "group",
+      "x": 2480,
+      "y": 487,
+      "width": 1600,
+      "height": 1264,
+      "label": "未命名组"
+    },
+    {
+      "id": "6c95406efa21c66d",
+      "type": "group",
+      "isStartNode": false,
+      "x": -1227,
+      "y": 1660,
+      "width": 1604,
+      "height": 1146,
+      "color": "3",
+      "label": "1-3 函数的连续性"
+    },
+    {
+      "id": "afc989c7afbd1693",
+      "type": "group",
+      "isCollapsed": true,
+      "x": 2760,
+      "y": -800,
+      "width": 740,
+      "height": 845,
+      "label": "3-1 微分中值定理"
+    },
+    {
+      "id": "bdf3810bf7e3a623",
+      "type": "group",
+      "isStartNode": true,
+      "x": 860,
+      "y": 2057,
+      "width": 680,
+      "height": 662,
+      "color": "3",
+      "label": "3-3 高阶导数"
+    },
+    {
+      "id": "5267946b45a364c0",
+      "type": "group",
+      "isCollapsed": true,
+      "isStartNode": false,
+      "x": 800,
+      "y": -800,
+      "width": 1746,
+      "height": 1091,
+      "color": "1",
+      "label": "2-1 导数与微分的概念"
+    },
+    {
+      "id": "5304bba8d7bb893c",
+      "type": "group",
+      "isCollapsed": true,
+      "x": -1210,
+      "y": -800,
+      "width": 1330,
+      "height": 755,
+      "color": "1",
+      "label": "1-1 函数"
+    },
+    {
+      "id": "7f569bcae2d39217",
+      "type": "group",
+      "x": -3280,
+      "y": 540,
+      "width": 841,
+      "height": 290,
+      "label": "微分方程"
+    },
+    {
+      "id": "d20213ab4f42c68e",
+      "type": "text",
+      "text": "古尔丁定理",
+      "x": -2174,
+      "y": 2780,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e3a40621140a9b63",
+      "type": "text",
+      "text": "![[Pasted image 20240313111136.png]]",
+      "x": -2640,
+      "y": 937,
+      "width": 484,
+      "height": 422
+    },
+    {
+      "id": "0c49eaa243acbcc2",
+      "type": "file",
+      "file": "5_定积分与反常积分/区间再现公式.md",
+      "x": -2480,
+      "y": 2615,
+      "width": 346,
+      "height": 50
+    },
+    {
+      "id": "841f8dd7a32582f6",
+      "type": "text",
+      "text": "质心公式",
+      "x": -2443,
+      "y": 2910,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0ba8eb99822057a0",
+      "type": "text",
+      "text": "1. 变量可分离的方程",
+      "x": -2709,
+      "y": 560,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "51a489a5d6b9f552",
+      "type": "text",
+      "text": "2. 齐次微分方程",
+      "x": -2709,
+      "y": 632,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "41c5fd95408e3b1b",
+      "type": "text",
+      "text": "3. 一阶线性微分方程",
+      "x": -2709,
+      "y": 725,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4b751aba3f5dd560",
+      "type": "text",
+      "text": "星形线",
+      "x": -2903,
+      "y": 1432,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "21308c22d030af03",
+      "type": "file",
+      "file": "7_微分方程/7-2 一阶微分方程.md",
+      "x": -3060,
+      "y": 632,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "c9e267c44f58eb16",
+      "type": "text",
+      "text": "摆线",
+      "x": -2895,
+      "y": 1118,
+      "width": 115,
+      "height": 60
+    },
+    {
+      "id": "61e6a2eccb467850",
+      "type": "text",
+      "text": "[[4.曲线|曲线]]",
+      "x": -3110,
+      "y": 1298,
+      "width": 110,
+      "height": 60
+    },
+    {
+      "id": "53b1aeadefaeeb62",
+      "type": "text",
+      "text": "微分方程",
+      "x": -3260,
+      "y": 755,
+      "width": 135,
+      "height": 55
+    },
+    {
+      "id": "cf06dcf6ebc0564c",
+      "type": "text",
+      "text": "[[5.反解三角函数]]",
+      "x": -3403,
+      "y": 190,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1570684802be1dad",
+      "type": "text",
+      "text": "[线性微分方程的利器-微分算子法(超详细讲解) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/429780174)",
+      "x": -3350,
+      "y": 1930,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "20017dd6d781a577",
+      "type": "text",
+      "text": "函数的最大值与最小值",
+      "x": 2942,
+      "y": 950,
+      "width": 235,
+      "height": 60
+    },
+    {
+      "id": "c8cb43b9d9e4159c",
+      "type": "text",
+      "text": "曲线的渐近线",
+      "x": 2929,
+      "y": 1295,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e9fde8551913f75d",
+      "type": "text",
+      "text": "曲线的凹凸性",
+      "x": 2942,
+      "y": 1140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ece78e6f3982fbc9",
+      "type": "text",
+      "text": "极值的第一充分条件(极值点的邻域)",
+      "x": 3179,
+      "y": 727,
+      "width": 341,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "96563b8ba12de424",
+      "type": "text",
+      "text": "极值的第二充分条件(极值点的二阶导)",
+      "x": 3177,
+      "y": 814,
+      "width": 343,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "98b40fa7afc94187",
+      "type": "text",
+      "text": "1.连续函数$f(x)$在闭区间上的最大最小值",
+      "shape": "centered-rectangle",
+      "x": 3272,
+      "y": 890,
+      "width": 288,
+      "height": 60
+    },
+    {
+      "id": "cb97e7c6ee0b977c",
+      "type": "text",
+      "text": "2.最大最小值的应用题",
+      "shape": "centered-rectangle",
+      "x": 3274,
+      "y": 997,
+      "width": 172,
+      "height": 60
+    },
+    {
+      "id": "7adb6d9ce2bd65c2",
+      "type": "text",
+      "text": "函数的作图",
+      "x": 2925,
+      "y": 1502,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d7471e7f48b5d0b2",
+      "type": "text",
+      "text": "函数的极值",
+      "x": 2950,
+      "y": 727,
+      "width": 150,
+      "height": 60
+    },
+    {
+      "id": "77c4d2d9c78bf6f9",
+      "type": "text",
+      "text": "1. 求出在开区间内的**==驻点和不可导的点==**\n2. 求出以上点和端点处的函数值\n3. 比较大小",
+      "x": 3660,
+      "y": 864,
+      "width": 400,
+      "height": 113
+    },
+    {
+      "id": "f70a04d5722e237f",
+      "type": "text",
+      "text": "3-2 导数应用",
+      "shape": "circle",
+      "x": 2500,
+      "y": 950,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4dbf956ac3cf6bbc",
+      "type": "text",
+      "text": "极值的必要条件",
+      "x": 3179,
+      "y": 646,
+      "width": 201,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "4ebee1a2022a665b",
+      "type": "text",
+      "text": "单调性的充分的条件",
+      "x": 3264,
+      "y": 507,
+      "width": 216,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "4802dfa9b4cb96aa",
+      "type": "text",
+      "text": "曲线的弧微分与曲率",
+      "x": 2920,
+      "y": 1671,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3b0feb0cefcd30dc",
+      "type": "text",
+      "text": "函数的单调性",
+      "x": 2961,
+      "y": 507,
+      "width": 179,
+      "height": 60
+    },
+    {
+      "id": "0eec2a84106f110c",
+      "type": "text",
+      "text": "凹凸性的充分条件",
+      "shape": "centered-rectangle",
+      "x": 3274,
+      "y": 1080,
+      "width": 172,
+      "height": 60
+    },
+    {
+      "id": "3ce706edeb3d5e0d",
+      "type": "text",
+      "text": "拐点",
+      "shape": "centered-rectangle",
+      "x": 3279,
+      "y": 1201,
+      "width": 50,
+      "height": 60
+    },
+    {
+      "id": "fa03982cab099630",
+      "type": "text",
+      "text": "拐点的必要条件",
+      "shape": "centered-rectangle",
+      "x": 3468,
+      "y": 1129,
+      "width": 132,
+      "height": 60
+    },
+    {
+      "id": "838ce6955e57ddec",
+      "type": "text",
+      "text": "拐点的第一充分条件(拐点邻域二阶导正负)",
+      "shape": "centered-rectangle",
+      "x": 3465,
+      "y": 1198,
+      "width": 315,
+      "height": 60
+    },
+    {
+      "id": "3695dea2ce11d959",
+      "type": "text",
+      "text": "拐点第二充分条件(拐点三阶导)",
+      "shape": "centered-rectangle",
+      "x": 3463,
+      "y": 1278,
+      "width": 237,
+      "height": 60
+    },
+    {
+      "id": "0ef8b24c81e1eeca",
+      "type": "text",
+      "text": "对于可导函数，极值点和拐点不可能是同一个点",
+      "x": 2840,
+      "y": -1040,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "6d4d5ea3f4a0cd79",
+      "fromNode": "53b1aeadefaeeb62",
+      "fromSide": "right",
+      "toNode": "21308c22d030af03",
+      "toSide": "left"
+    },
+    {
+      "id": "38f5fbc83e981883",
+      "fromNode": "21308c22d030af03",
+      "fromSide": "right",
+      "toNode": "0ba8eb99822057a0",
+      "toSide": "left"
+    },
+    {
+      "id": "f98bd7e1fd32457a",
+      "fromNode": "21308c22d030af03",
+      "fromSide": "right",
+      "toNode": "51a489a5d6b9f552",
+      "toSide": "left"
+    },
+    {
+      "id": "9743d06f3722c7da",
+      "fromNode": "21308c22d030af03",
+      "fromSide": "right",
+      "toNode": "41c5fd95408e3b1b",
+      "toSide": "left"
+    },
+    {
+      "id": "b87fdd8fe6a58f9a",
+      "fromNode": "61e6a2eccb467850",
+      "fromSide": "right",
+      "toNode": "c9e267c44f58eb16",
+      "toSide": "left"
+    },
+    {
+      "id": "344a776265dfff2b",
+      "fromNode": "c9e267c44f58eb16",
+      "fromSide": "right",
+      "toNode": "e3a40621140a9b63",
+      "toSide": "left"
+    },
+    {
+      "id": "5f66b55ff06362d2",
+      "fromNode": "61e6a2eccb467850",
+      "fromSide": "right",
+      "toNode": "4b751aba3f5dd560",
+      "toSide": "left"
+    },
+    {
+      "id": "fd696ccd5943c839",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "3b0feb0cefcd30dc",
+      "toSide": "left"
+    },
+    {
+      "id": "89d7ba4be0ebc462",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "d7471e7f48b5d0b2",
+      "toSide": "left"
+    },
+    {
+      "id": "cfd394acbbd11587",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "20017dd6d781a577",
+      "toSide": "left"
+    },
+    {
+      "id": "2a69574dda7fb14f",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "e9fde8551913f75d",
+      "toSide": "left"
+    },
+    {
+      "id": "dbd02d1ca4adfcef",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "c8cb43b9d9e4159c",
+      "toSide": "left"
+    },
+    {
+      "id": "379d00ca14526070",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "7adb6d9ce2bd65c2",
+      "toSide": "left"
+    },
+    {
+      "id": "22122ec29071ab6a",
+      "fromNode": "f70a04d5722e237f",
+      "fromSide": "right",
+      "toNode": "4802dfa9b4cb96aa",
+      "toSide": "left"
+    },
+    {
+      "id": "477affdf5ff382d1",
+      "fromNode": "d7471e7f48b5d0b2",
+      "fromSide": "right",
+      "toNode": "4dbf956ac3cf6bbc",
+      "toSide": "left"
+    },
+    {
+      "id": "63f67dfea8a07f04",
+      "fromNode": "d7471e7f48b5d0b2",
+      "fromSide": "right",
+      "toNode": "ece78e6f3982fbc9",
+      "toSide": "left"
+    },
+    {
+      "id": "a7b6c2b5e374b60b",
+      "fromNode": "d7471e7f48b5d0b2",
+      "fromSide": "right",
+      "toNode": "96563b8ba12de424",
+      "toSide": "left"
+    },
+    {
+      "id": "6e357cd8fc42db26",
+      "fromNode": "20017dd6d781a577",
+      "fromSide": "right",
+      "toNode": "98b40fa7afc94187",
+      "toSide": "left"
+    },
+    {
+      "id": "bf6ef661f82af3ad",
+      "fromNode": "20017dd6d781a577",
+      "fromSide": "right",
+      "toNode": "cb97e7c6ee0b977c",
+      "toSide": "left"
+    },
+    {
+      "id": "ab81265027c08342",
+      "fromNode": "98b40fa7afc94187",
+      "fromSide": "right",
+      "toNode": "77c4d2d9c78bf6f9",
+      "toSide": "left"
+    },
+    {
+      "id": "05a1482a17001b65",
+      "fromNode": "3b0feb0cefcd30dc",
+      "fromSide": "right",
+      "toNode": "4ebee1a2022a665b",
+      "toSide": "left"
+    },
+    {
+      "id": "6f9113e258106aa2",
+      "fromNode": "e9fde8551913f75d",
+      "fromSide": "right",
+      "toNode": "0eec2a84106f110c",
+      "toSide": "left"
+    },
+    {
+      "id": "e53d3273fcd5a2d2",
+      "fromNode": "e9fde8551913f75d",
+      "fromSide": "right",
+      "toNode": "3ce706edeb3d5e0d",
+      "toSide": "left"
+    },
+    {
+      "id": "291bf24dffc4beb2",
+      "fromNode": "3ce706edeb3d5e0d",
+      "fromSide": "right",
+      "toNode": "fa03982cab099630",
+      "toSide": "left"
+    },
+    {
+      "id": "a679358b05d5519f",
+      "fromNode": "3ce706edeb3d5e0d",
+      "fromSide": "right",
+      "toNode": "838ce6955e57ddec",
+      "toSide": "left"
+    },
+    {
+      "id": "6343aa8444a8352e",
+      "fromNode": "3ce706edeb3d5e0d",
+      "fromSide": "right",
+      "toNode": "3695dea2ce11d959",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

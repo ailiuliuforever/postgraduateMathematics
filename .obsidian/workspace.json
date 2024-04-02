@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "3d802638ee29f010",
+    "type": "split",
+    "children": [
+      {
+        "id": "a23f2112d6882a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc9e9cb22acc32f5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4_不定积分/思维导图.canvas",
+                "viewState": {
+                  "x": 665.7821885460231,
+                  "y": -373.061147743131,
+                  "zoom": 0.18015711989251904
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4434c82e9b2549b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d716bca8a5bf60ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4251a78a797514e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "a7014c3c26c650b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d3d413a8f8acfa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7c2ec2f77c79f67c",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c99942ed95c6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed75c5287b49941",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4_不定积分/思维导图.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b55c8b6821f080d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4_不定积分/思维导图.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79c27dbeea12de67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23deb96ab20de570",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_不定积分/思维导图.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dc9e9cb22acc32f5",
+  "lastOpenFiles": [
+    "4_不定积分/思维导图.canvas",
+    "思维导图.canvas",
+    "4_不定积分",
+    "5_定积分与反常积分/区间再现公式.md",
+    "1_函数，极限，连续/1-3 函数的连续性.md",
+    "1_函数，极限，连续/1-2极限/t2_求极限.md",
+    "1_函数，极限，连续/1-2极限/a_极限.md",
+    "2_导数与微分/2-3 高阶导数.md",
+    "2_导数与微分/2-2 导数公式与求导法则.md",
+    "2_导数与微分/2-1 导数与微分的概念.md",
+    "7_微分方程/7-2 一阶微分方程.md",
+    "未命名.canvas",
+    "assets/img/1/1/c",
+    "assets/img/1/1",
+    "assets/img/1/1/c/11c55248166b61f6921c1f462b5b4ef1b5b4b1faadf9e231dcde81abba4feb76.png",
+    "0_零碎知识/6.幂指恒等式.md",
+    "0_零碎知识/2.三角函数公式.md",
+    "未命名.md",
+    "Pasted image 20240328132306.png",
+    "Pasted image 20240328132231.png",
+    "assets/img/d/2/5",
+    "assets/img/d/2",
+    "assets/img/d/2/5/d25563abf411104691c8def6a4026ec9fe6970edd0caa4df4426c216cdb6fd03.png",
+    "assets/img/c/d/8",
+    "assets/img/c/d/8/cd8a4bf35c60eacc96aa4abcc285594b5a21f33d43d20d0f339ff018cacacd70.png",
+    "Pasted image 20240327170115.png",
+    "assets/img/f/e/f",
+    "assets/img/f/e",
+    "assets/img/f/e/f/fef78297b6c4883116da300df5ce90caaef5849d3c3846d220c81ce1d60bb1c8.png",
+    "assets/img/d/5/4",
+    "assets/img/d/5",
+    "assets/img/d/5/4/d54e8ffa5e946c2b948810ce019a2bdb59737e61b804cba66d3b4bd90b9c7aa5.png",
+    "assets/img/e/d/f/edf8dc474fdc2f93eb2668cc2737c7617f0f4068bd7dbb4370a3306a7a724a2a.png",
+    "1_函数，极限，连续/1-1 函数.md",
+    "assets/img/1/7/a/17a95751cbb04731ee6dfa1a186f3b4a9b95e05291a0e8233d882547218fbb54.png",
+    "学习计划.md",
+    "0_零碎知识/5.反解三角函数.md",
+    "().md",
+    "0_零碎知识/4.曲线.md",
+    "2024-03-09.md",
+    "0_零碎知识/3.有理式分解.md",
+    "0_零碎知识/1.立方和差公式.md",
+    "零碎知识.md",
+    "Welcome.md"
+  ]
+}
