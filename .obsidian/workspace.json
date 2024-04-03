@@ -11,18 +11,31 @@
             "id": "dc9e9cb22acc32f5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_不定积分/4-1 不定积分的概念与性质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78736e3726e31d38",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "4_不定积分/思维导图.canvas",
                 "viewState": {
-                  "x": 665.7821885460231,
-                  "y": -373.061147743131,
-                  "zoom": 0.18015711989251904
+                  "x": 425.0062753373172,
+                  "y": 137.0076657979841,
+                  "zoom": 0.4188114005945438
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,9 +164,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dc9e9cb22acc32f5",
+  "active": "78736e3726e31d38",
   "lastOpenFiles": [
+    "4_不定积分/4-1 不定积分的概念与性质.md",
     "4_不定积分/思维导图.canvas",
+    "assets/img/3/f/7",
+    "assets/img/3/f",
+    "assets/img/3/f/7/3f755adab6df490e725d98e878bd804320100ac952877b11085d74d7812b8071.png",
     "思维导图.canvas",
     "4_不定积分",
     "5_定积分与反常积分/区间再现公式.md",
@@ -182,12 +199,9 @@
     "assets/img/f/e/f",
     "assets/img/f/e",
     "assets/img/f/e/f/fef78297b6c4883116da300df5ce90caaef5849d3c3846d220c81ce1d60bb1c8.png",
-    "assets/img/d/5/4",
-    "assets/img/d/5",
     "assets/img/d/5/4/d54e8ffa5e946c2b948810ce019a2bdb59737e61b804cba66d3b4bd90b9c7aa5.png",
     "assets/img/e/d/f/edf8dc474fdc2f93eb2668cc2737c7617f0f4068bd7dbb4370a3306a7a724a2a.png",
     "1_函数，极限，连续/1-1 函数.md",
-    "assets/img/1/7/a/17a95751cbb04731ee6dfa1a186f3b4a9b95e05291a0e8233d882547218fbb54.png",
     "学习计划.md",
     "0_零碎知识/5.反解三角函数.md",
     "().md",
