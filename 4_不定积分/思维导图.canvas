@@ -21,22 +21,12 @@
       "height": 50
     },
     {
-      "id": "b7eddf9bd417861e",
-      "type": "text",
-      "text": "不定积分的性质",
-      "shape": "oval",
-      "x": 580,
-      "y": -258,
-      "width": 195,
-      "height": 60
-    },
-    {
       "id": "ab84c9917d114a4d",
       "type": "text",
       "text": "不定积分",
       "shape": "oval",
       "x": 580,
-      "y": -525,
+      "y": -534,
       "width": 195,
       "height": 60
     },
@@ -46,19 +36,9 @@
       "text": "不定积分的几何意义",
       "shape": "oval",
       "x": 580,
-      "y": -436,
+      "y": -454,
       "width": 195,
       "height": 60
-    },
-    {
-      "id": "520299a45961bd54",
-      "type": "text",
-      "text": "[[4-1 不定积分的概念与性质#4.原函数存在定理|原函数存在定理]]",
-      "shape": "oval",
-      "x": 580,
-      "y": -347,
-      "width": 195,
-      "height": 58
     },
     {
       "id": "bd6d005cef4a3ef7",
@@ -71,12 +51,62 @@
       "height": 60
     },
     {
+      "id": "b7eddf9bd417861e",
+      "type": "text",
+      "text": "不定积分的性质",
+      "shape": "oval",
+      "x": 580,
+      "y": -374,
+      "width": 195,
+      "height": 60
+    },
+    {
+      "id": "520299a45961bd54",
+      "type": "text",
+      "text": "[[4-1 不定积分的概念与性质#4.原函数存在定理|原函数存在定理]]",
+      "shape": "oval",
+      "x": 580,
+      "y": -294,
+      "width": 195,
+      "height": 50
+    },
+    {
       "id": "87c4fe3824aa3dd3",
       "type": "text",
-      "text": "三种主要积分法",
-      "x": 264,
-      "y": 206,
+      "text": "[[4-3 三种主要积分法|三种主要积分方法]]",
+      "x": 229,
+      "y": 120,
       "width": 196,
+      "height": 60
+    },
+    {
+      "id": "a117d7e4e367e912",
+      "type": "text",
+      "text": "[[4-3 三种主要积分法#第二类积分法|第二换元积分法]]",
+      "shape": "oval",
+      "x": 540,
+      "y": 119,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dc4e530ae8c93470",
+      "type": "text",
+      "text": "[[4-3 三种主要积分法#第一类积分法(凑微分)|第一换元积分法]]",
+      "shape": "oval",
+      "x": 540,
+      "y": 39,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "20e06b37c575d992",
+      "type": "text",
+      "text": "分部积分法",
+      "shape": "oval",
+      "x": 540,
+      "y": 199,
+      "width": 260,
       "height": 60
     },
     {
@@ -84,39 +114,9 @@
       "type": "text",
       "text": "不定积分的基本公式",
       "shape": "centered-rectangle",
-      "x": 275,
-      "y": -20,
+      "x": 229,
+      "y": -50,
       "width": 185,
-      "height": 60
-    },
-    {
-      "id": "dc4e530ae8c93470",
-      "type": "text",
-      "text": "第一换元积分法",
-      "shape": "oval",
-      "x": 560,
-      "y": 69,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a117d7e4e367e912",
-      "type": "text",
-      "text": "第二换元积分法",
-      "shape": "oval",
-      "x": 560,
-      "y": 206,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "20e06b37c575d992",
-      "type": "text",
-      "text": "分布积分法",
-      "shape": "oval",
-      "x": 555,
-      "y": 345,
-      "width": 260,
       "height": 60
     },
     {
@@ -124,10 +124,20 @@
       "type": "text",
       "text": "三类常见可积分函数积分",
       "shape": "centered-rectangle",
-      "x": 264,
-      "y": 600,
+      "x": 229,
+      "y": 500,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "117dcacbbaccbd24",
+      "type": "text",
+      "text": "1. 直接代换\n2. 三角代换\n3. 倒代换",
+      "shape": "oval",
+      "x": 900,
+      "y": 93,
+      "width": 260,
+      "height": 114
     }
   ],
   "edges": [
@@ -213,6 +223,13 @@
       "fromNode": "bd6d005cef4a3ef7",
       "fromSide": "right",
       "toNode": "1aebd338115a19bb",
+      "toSide": "left"
+    },
+    {
+      "id": "5ad2f906f83457b2",
+      "fromNode": "a117d7e4e367e912",
+      "fromSide": "right",
+      "toNode": "117dcacbbaccbd24",
       "toSide": "left"
     }
   ],

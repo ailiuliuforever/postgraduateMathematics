@@ -95,6 +95,54 @@
       "label": "微分方程"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "id": "0ba8eb99822057a0",
+      "type": "text",
+      "text": "1. 变量可分离的方程",
+      "x": -2709,
+      "y": 560,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "51a489a5d6b9f552",
+      "type": "text",
+      "text": "2. 齐次微分方程",
+      "x": -2709,
+      "y": 632,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "21308c22d030af03",
+      "type": "file",
+      "file": "7_微分方程/7-2 一阶微分方程.md",
+      "x": -3060,
+      "y": 632,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "cf06dcf6ebc0564c",
+      "type": "text",
+      "text": "[[5.反解三角函数]]",
+      "x": -3403,
+      "y": 190,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "41c5fd95408e3b1b",
+      "type": "text",
+      "text": "3. 一阶线性微分方程",
+      "x": -2709,
+      "y": 725,
+      "width": 250,
+      "height": 60
+    },
+    {
+>>>>>>> Stashed changes
       "id": "d20213ab4f42c68e",
       "type": "text",
       "text": "古尔丁定理",
@@ -131,6 +179,7 @@
       "height": 60
     },
     {
+<<<<<<< Updated upstream
       "id": "0ba8eb99822057a0",
       "type": "text",
       "text": "1. 变量可分离的方程",
@@ -155,6 +204,61 @@
       "x": -2709,
       "y": 725,
       "width": 250,
+=======
+      "id": "f70a04d5722e237f",
+      "type": "text",
+      "text": "3-2 导数应用",
+      "shape": "circle",
+      "x": 2500,
+      "y": 950,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e3a40621140a9b63",
+      "type": "text",
+      "text": "![[Pasted image 20240313111136.png]]",
+      "x": -2640,
+      "y": 937,
+      "width": 484,
+      "height": 422
+    },
+    {
+      "id": "4ebee1a2022a665b",
+      "type": "text",
+      "text": "单调性的充分的条件",
+      "x": 3264,
+      "y": 507,
+      "width": 216,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "3b0feb0cefcd30dc",
+      "type": "text",
+      "text": "函数的单调性",
+      "x": 2961,
+      "y": 507,
+      "width": 179,
+      "height": 60
+    },
+    {
+      "id": "53b1aeadefaeeb62",
+      "type": "text",
+      "text": "微分方程",
+      "x": -3260,
+      "y": 755,
+      "width": 135,
+      "height": 55
+    },
+    {
+      "id": "0ef8b24c81e1eeca",
+      "type": "text",
+      "text": "对于可导函数，极值点和拐点不可能是同一个点",
+      "x": 2840,
+      "y": -1040,
+      "width": 260,
+>>>>>>> Stashed changes
       "height": 60
     },
     {
@@ -258,6 +362,15 @@
       "color": "2"
     },
     {
+      "id": "c8cb43b9d9e4159c",
+      "type": "text",
+      "text": "曲线的渐近线",
+      "x": 2929,
+      "y": 1295,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "96563b8ba12de424",
       "type": "text",
       "text": "极值的第二充分条件(极值点的二阶导)",
@@ -268,6 +381,19 @@
       "color": "2"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "id": "cb97e7c6ee0b977c",
+      "type": "text",
+      "text": "2.最大最小值的应用题",
+      "shape": "centered-rectangle",
+      "x": 3274,
+      "y": 997,
+      "width": 172,
+      "height": 60
+    },
+    {
+>>>>>>> Stashed changes
       "id": "98b40fa7afc94187",
       "type": "text",
       "text": "1.连续函数$f(x)$在闭区间上的最大最小值",
@@ -373,6 +499,19 @@
       "height": 60
     },
     {
+<<<<<<< Updated upstream
+=======
+      "id": "4dbf956ac3cf6bbc",
+      "type": "text",
+      "text": "极值的必要条件",
+      "x": 3179,
+      "y": 646,
+      "width": 201,
+      "height": 60,
+      "color": "1"
+    },
+    {
+>>>>>>> Stashed changes
       "id": "3ce706edeb3d5e0d",
       "type": "text",
       "text": "拐点",
@@ -411,6 +550,7 @@
       "y": 1278,
       "width": 237,
       "height": 60
+<<<<<<< Updated upstream
     },
     {
       "id": "0ef8b24c81e1eeca",
@@ -420,6 +560,8 @@
       "y": -1040,
       "width": 260,
       "height": 60
+=======
+>>>>>>> Stashed changes
     }
   ],
   "edges": [
