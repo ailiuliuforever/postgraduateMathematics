@@ -11,8 +11,12 @@
             "id": "9043d5c1da650427",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7_微分方程/M1 微分算子法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "283056c60eeb293e",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7_微分方程/M1 微分算子法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7_微分方程/M1 微分算子法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7_微分方程/M1 微分算子法.md"
+              }
             }
           }
         ]
@@ -140,43 +149,50 @@
   },
   "active": "9043d5c1da650427",
   "lastOpenFiles": [
+    "assets/img/d/f/8",
+    "assets/img/d/f",
+    "assets/img/d/f/8/df89127893506e30e66db89215235a069d701554ad0972ec2b70c2d4c8d40c87.png",
+    "assets/img/8/0/b",
+    "assets/img/8/0",
+    "assets/img/8/0/b/80b59b7d3e7496d5ec217674aa9b580a5f0249aa48d5cadccd58cd9dce647ccd.png",
+    "assets/img/9/f/5",
+    "assets/img/9/f",
+    "assets/img/9/f/5/9f5f994724466824149079b7a8e017b63203e6a3960ad7e0526516dc2f63fc4e.png",
+    "assets/img/b/2/b",
+    "assets/img/b/2",
+    "assets/img/b/2/b/b2b625522cd6b5d62bd61bbea6b3a136ffd428ebd9ceaf82f56ac67522ec707a.png",
+    "assets/img/a/6/1",
+    "assets/img/a/6",
+    "assets/img/a/6/1/a6170d14553754d9ad9b769722642a3363a309f7c2044ca6f1cb139f4dbf099e.png",
+    "assets/img/e/d/0",
+    "assets/img/e/d/0/ed0899fbc6af765809a2dc065a11d0ec62ff46194262809eb5fdb3a07ff4657e.png",
+    "assets/img/5/8/b/58b2e50b1ee5a9220bba41310249273213bae1b017e52add321bbd8be2fa2a8c.png",
+    "5_定积分与反常积分/思维导图.canvas",
+    "7_微分方程/M1 微分算子法.md",
+    "assets/img/8/b/f/8bfdb8787adf889a36028867f5b0a4bf351ade7f28d7ed8ccdd2248b30aa2bcd.png",
+    "5_定积分与反常积分/区间再现公式.md",
     "7_微分方程/思维导图.canvas",
     "7_微分方程/7-2 一阶微分方程.md",
-    "7_微分方程/未命名.canvas",
-    "5_定积分与反常积分/区间再现公式.md",
+    "0_零碎知识/1.立方和差公式.md",
+    "0_零碎知识/3.有理式分解.md",
     "4_不定积分/4-4 三类常见可积函数积分.md",
-    "4_不定积分/思维导图.canvas",
+    "0_零碎知识/7.求根公式.md",
+    "0_零碎知识/6.幂指恒等式.md",
+    "0_零碎知识/4.曲线.md",
+    "0_零碎知识/5.反解三角函数.md",
     "0_零碎知识/2.三角函数公式.md",
+    "7_微分方程/7-4 高阶线性微分方程.md",
+    "6_定积分应用/思维导图.canvas",
+    "未命名.md",
+    "4_不定积分/思维导图.canvas",
+    "4_不定积分/4-1 不定积分的概念与性质.md",
+    "学习计划.md",
     "assets/Pasted image 20240327170115.png",
     "assets/Pasted image 20240328132231.png",
     "2dc3100713065bf666c4aa16f550dc5e546c1fb2e3e655611a55aad988a4902b.png.md",
-    "assets/Pasted image 20240328132306.png",
     "2_导数与微分/2-2 导数公式与求导法则.md",
     "1_函数，极限，连续/1-1 函数.md",
-    "0_零碎知识/1.立方和差公式.md",
-    "0_零碎知识/3.有理式分解.md",
-    "0_零碎知识/5.反解三角函数.md",
-    "0_零碎知识/6.幂指恒等式.md",
-    "6_定积分应用/思维导图.canvas",
-    "assets/img/f/f/6",
-    "assets/img/f/f",
-    "assets/img/f/f/6/ff61c45f0700a8663e28efe1561a3f11f5c30d93deaa8b26982e22dcc349c8cc.png",
-    "assets/img/a/e/0",
-    "assets/img/a/e",
-    "assets/img/a/e/0/ae0723ad64b627095d0fce7dc0c8520499534e48ee710b22d9a5c38b03535bb9.png",
-    "assets/img/c/0/7",
-    "assets/img/c/0",
-    "assets/img/c/0/7/c07de2e50b3a1d245ac79d0bfd15aacf6d22bdbcddf5f71a77eff840d391e803.png",
-    "assets/img/d/8/b",
-    "assets/img/d/8",
-    "assets/img/d/8/b/d8b9c254beb77a4d61b837c19903f4999f906d515b8712e8e98b3c4a91f27176.png",
-    "assets/img/1/f/b",
-    "assets/img/1/f",
-    "assets/img/1/f/b/1fb60c7954bf0db83b4d3480fe71ed503eebe79370b226d21c867a62d570fd1e.png",
-    "assets/img/3/b/7/3b752bd2143ab608f726a7174ee19f794a301cdf989de638fbb50d9fb38a2d78.png",
-    "assets/img/f/d/7/fd792d668ee6496500a79c937521e1e31ba7b43c500ff4a650614c169dd0680a.png",
     "4_不定积分/4-3 三种主要积分法.md",
-    "0_零碎知识/4.曲线.md",
     "未命名.canvas"
   ]
 }

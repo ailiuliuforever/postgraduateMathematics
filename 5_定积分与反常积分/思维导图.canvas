@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "f49b5468701adb9d",
+      "type": "file",
+      "file": "assets/img/8/b/f/8bfdb8787adf889a36028867f5b0a4bf351ade7f28d7ed8ccdd2248b30aa2bcd.png",
+      "isSticker": true,
+      "x": -200,
+      "y": -200,
+      "width": 444,
+      "height": 140
+    },
+    {
+      "id": "f822799110231fa6",
+      "x": 364,
+      "y": -162,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": "[660]77"
+    }
+  ],
+  "edges": [
+    {
+      "id": "66fd7f9e8a0ca65c",
+      "fromNode": "f49b5468701adb9d",
+      "fromSide": "right",
+      "toNode": "f822799110231fa6",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
