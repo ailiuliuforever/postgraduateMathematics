@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md",
+                "file": "7_微分方程/M1 微分算子法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md",
+                "file": "7_微分方程/M1 微分算子法.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md",
+                "file": "7_微分方程/M1 微分算子法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md"
+                "file": "7_微分方程/M1 微分算子法.md"
               }
             }
           }
@@ -149,9 +149,18 @@
   },
   "active": "9043d5c1da650427",
   "lastOpenFiles": [
-    "8_多元函数微分学/T2 多元函数求极限.md",
-    "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md",
+    "assets/img/0/9/8",
+    "assets/img/0/9/8/09843e1c69489d3a64337d9a558a7c9badfbb9051bf2fdf111d07a781e0c378a.png",
     "8_多元函数微分学/T1 多元函数的概念及其之间的关系.md",
+    "8_多元函数微分学/思维导图.canvas",
+    "8_多元函数微分学/8-2 多元函数微分法.md",
+    "assets/img/6/2/7",
+    "assets/img/6/2/7/6276c08ff64dbdd41d0c4b097ae599e88a48c3c5ff915bdbf94482e89cd165de.png",
+    "assets/img/d/a/b",
+    "assets/img/d/a/b/dab39e5c6bbf4495c7b4bd792d906bb7a2a659fb0b0b2375aebb67cf433cba96.png",
+    "8_多元函数微分学/8-1 多元函数的基本概念.md",
+    "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md",
+    "8_多元函数微分学/T2 多元函数求极限.md",
     "assets/img/0/9/0",
     "assets/img/0/9",
     "assets/img/0/9/0/090a5169ced39f6448a520c9defcf2384e9d17632bbf37b656ba31bdf39f1798.png",
@@ -167,23 +176,15 @@
     "assets/img/3/7/2",
     "assets/img/3/7",
     "assets/img/3/7/2/372e3361a92fa448adda1174a1ac0edb5cbc1032c923c125c9a54ad19e8198a5.png",
-    "assets/img/e/6/e",
     "assets/img/e/6/e/e6e5a6a6f3c30535ec9c4a30593d433f9a757f9c801a8333440e24f932025ea7.png",
-    "assets/img/f/5/5",
     "assets/img/f/5/5/f55a2bd4530584138bfc170067c361e45158b09fea6de92911beb6331bf91761.png",
     "assets/img/d/7/f/d7f6e4bdc7893f4ccbd4c45f73c8540af9694b88e69795ed8312526e4f4ee3bd.png",
-    "assets/img/f/7/d/f7d4571cacd4d236f9cde25ffcbef7317123178ef75439386874d02cae2fbe05.png",
-    "assets/img/0/4/b/04b9090819a34e01a5dfb0ecbf5cb21c4785b5b0caab71926757cc73061acddd.png",
-    "assets/img/4/9/9/499b5fb03ff39bbcdc0b92ef7342edaa9ad8d2e79d1fdeef74400a4136306a5f.png",
     "7_微分方程/M1 微分算子法.md",
     "7_微分方程/思维导图.canvas",
     "1_函数，极限，连续/T2 求极限.md",
     "1_函数，极限，连续/1-3 函数的连续性.md",
     "5_定积分与反常积分/未命名.md",
     "8_多元函数微分学/8-3多元函数的极值与最值.md",
-    "8_多元函数微分学/思维导图.canvas",
-    "8_多元函数微分学/8-1 多元函数的基本概念.md",
-    "8_多元函数微分学/8-2 多元函数微分法.md",
     "6_定积分应用/思维导图.canvas",
     "5_定积分与反常积分/M1 区间再现公式.md",
     "1_函数，极限，连续/1-2 极限.md",
