@@ -1016,6 +1016,7 @@ cbbbbbbbbbbbbbb
 caa
 cqBn
 cos
+cccc
 fc
 fd
 fca
@@ -1196,6 +1197,8 @@ ffX
 fjm
 fqa
 frac
+fce
+fee
 bff
 bc
 bd
@@ -1554,6 +1557,8 @@ dzu
 deq
 dzr
 duu
+dce
+deda
 JFIF
 Jn
 JGwr
@@ -5029,6 +5034,9 @@ aey
 aBF
 acc
 azc
+abb
+afb
+abddfa
 BK
 BCG
 Ba

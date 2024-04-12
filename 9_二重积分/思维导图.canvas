@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "30734cf9587318e0",
+      "type": "text",
+      "text": "二重积分",
+      "shape": "circle",
+      "x": -268,
+      "y": -68,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fce2290fee688a68",
+      "type": "text",
+      "text": "[[9-1 二重积分的概念和性质|二重积分的概念和性质]]",
+      "shape": "centered-rectangle",
+      "x": 101,
+      "y": -320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8b3bc8cccc43313f",
+      "type": "text",
+      "text": "[[9-1 二重积分的概念和性质#1.二重积分的概念|二重积分的概念]]",
+      "shape": "oval",
+      "x": 420,
+      "y": -440,
+      "width": 260,
+      "height": 58
+    },
+    {
+      "id": "dce6175d99deda93",
+      "type": "text",
+      "text": "定义",
+      "shape": "circle",
+      "x": 739,
+      "y": -551,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6a9686be94a9634c",
+      "type": "text",
+      "text": "几何意义",
+      "shape": "circle",
+      "x": 738,
+      "y": -328,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cd2ab6246f079ed2",
+      "type": "text",
+      "text": "[[9-1 二重积分的概念和性质#2.二重积分的性质|二重积分的性质]]",
+      "shape": "oval",
+      "x": 441,
+      "y": -117,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c5520abb0f33afb8",
+      "type": "text",
+      "text": "不等式性质",
+      "shape": "circle",
+      "x": 760,
+      "y": -240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8a8666f6c7fc6f0b",
+      "type": "text",
+      "text": "中值定理",
+      "shape": "circle",
+      "x": 774,
+      "y": -15,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1476a5764666d160",
+      "type": "text",
+      "text": "[[9-2 二重积分的计算|二重积分的计算]]",
+      "shape": "centered-rectangle",
+      "x": 80,
+      "y": 220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e54a180ab7f429eb",
+      "type": "text",
+      "text": "利用极坐标计算",
+      "shape": "oval",
+      "x": 480,
+      "y": 160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "646629956768c6e4",
+      "type": "text",
+      "text": "利用直角坐标计算",
+      "shape": "oval",
+      "x": 480,
+      "y": 80,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9bea988abddfa02e",
+      "type": "text",
+      "text": "利用函数的奇偶性计算",
+      "shape": "oval",
+      "x": 480,
+      "y": 250,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5c27d89521969695",
+      "type": "text",
+      "text": "利用变量的轮换对称性计算",
+      "shape": "oval",
+      "x": 480,
+      "y": 340,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "ae5f0af2da3c73aa",
+      "fromNode": "30734cf9587318e0",
+      "fromSide": "right",
+      "toNode": "fce2290fee688a68",
+      "toSide": "left"
+    },
+    {
+      "id": "df6e84c24210db3e",
+      "fromNode": "30734cf9587318e0",
+      "fromSide": "right",
+      "toNode": "1476a5764666d160",
+      "toSide": "left"
+    },
+    {
+      "id": "e5e681ec026d093e",
+      "fromNode": "fce2290fee688a68",
+      "fromSide": "right",
+      "toNode": "8b3bc8cccc43313f",
+      "toSide": "left"
+    },
+    {
+      "id": "b338fdb05ebe8d89",
+      "fromNode": "8b3bc8cccc43313f",
+      "fromSide": "right",
+      "toNode": "dce6175d99deda93",
+      "toSide": "left"
+    },
+    {
+      "id": "65bc7b43bb0093b6",
+      "fromNode": "8b3bc8cccc43313f",
+      "fromSide": "right",
+      "toNode": "6a9686be94a9634c",
+      "toSide": "left"
+    },
+    {
+      "id": "5e7b5d6bc0202774",
+      "fromNode": "fce2290fee688a68",
+      "fromSide": "right",
+      "toNode": "cd2ab6246f079ed2",
+      "toSide": "left"
+    },
+    {
+      "id": "c93d97330cde8ffb",
+      "fromNode": "cd2ab6246f079ed2",
+      "fromSide": "right",
+      "toNode": "c5520abb0f33afb8",
+      "toSide": "left"
+    },
+    {
+      "id": "3bed243be26ada0d",
+      "fromNode": "cd2ab6246f079ed2",
+      "fromSide": "right",
+      "toNode": "8a8666f6c7fc6f0b",
+      "toSide": "left"
+    },
+    {
+      "id": "a6dbce31a447fb5e",
+      "fromNode": "1476a5764666d160",
+      "fromSide": "right",
+      "toNode": "646629956768c6e4",
+      "toSide": "left"
+    },
+    {
+      "id": "733af528d784aa9a",
+      "fromNode": "1476a5764666d160",
+      "fromSide": "right",
+      "toNode": "e54a180ab7f429eb",
+      "toSide": "left"
+    },
+    {
+      "id": "a7c07d68387eb504",
+      "fromNode": "1476a5764666d160",
+      "fromSide": "right",
+      "toNode": "9bea988abddfa02e",
+      "toSide": "left"
+    },
+    {
+      "id": "ac32f78002ee18ec",
+      "fromNode": "1476a5764666d160",
+      "fromSide": "right",
+      "toNode": "5c27d89521969695",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
