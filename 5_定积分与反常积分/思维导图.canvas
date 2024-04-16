@@ -12,12 +12,12 @@
     },
     {
       "id": "f822799110231fa6",
+      "type": "text",
+      "text": "[660]77",
       "x": 364,
       "y": -162,
       "width": 260,
-      "height": 60,
-      "type": "text",
-      "text": "[660]77"
+      "height": 60
     }
   ],
   "edges": [
