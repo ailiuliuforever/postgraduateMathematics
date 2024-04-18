@@ -1,18 +1,102 @@
 {
-	"nodes":[
-		{"id":"5c325428fe0e05b4","type":"text","text":"多元函数微分学","shape":"circle","x":-196,"y":-67,"width":260,"height":60},
-		{"id":"f110e40dd02f7347","type":"text","text":"[[8-1 多元函数的基本概念]]","shape":"centered-rectangle","x":161,"y":-228,"width":260,"height":60},
-		{"id":"3c5683f13f3f8e57","type":"text","text":"[[8-2 多元函数微分法]]","shape":"centered-rectangle","x":168,"y":-66,"width":260,"height":60},
-		{"id":"5fc3e6b73555ccc2","type":"text","text":"[[8-3 多元函数的极值与最值]]","shape":"centered-rectangle","x":166,"y":109,"width":260,"height":60},
-		{"id":"09c0e422ebf9e5a9","type":"text","text":"[[8-1 多元函数的基本概念#一、多元函数极限|多元函数极限]]","shape":"oval","x":504,"y":-362,"width":260,"height":60},
-		{"id":"b67e634b4e761901","type":"text","text":"[[8-1 多元函数的基本概念#二、多元函数的连续性|多元函数连续性]]","shape":"oval","x":494,"y":-227,"width":260,"height":60}
-	],
-	"edges":[
-		{"id":"401acf2bd2f29ea5","fromNode":"5c325428fe0e05b4","fromSide":"right","toNode":"f110e40dd02f7347","toSide":"left"},
-		{"id":"fa6afa6715500590","fromNode":"5c325428fe0e05b4","fromSide":"right","toNode":"3c5683f13f3f8e57","toSide":"left"},
-		{"id":"e55271bd05651ba8","fromNode":"5c325428fe0e05b4","fromSide":"right","toNode":"5fc3e6b73555ccc2","toSide":"left"},
-		{"id":"502c2a3a60656aff","fromNode":"f110e40dd02f7347","fromSide":"right","toNode":"09c0e422ebf9e5a9","toSide":"left"},
-		{"id":"b4e73cf8f0d5295a","fromNode":"f110e40dd02f7347","fromSide":"right","toNode":"b67e634b4e761901","toSide":"left"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "5c325428fe0e05b4",
+      "type": "text",
+      "text": "多元函数微分学",
+      "shape": "circle",
+      "x": -196,
+      "y": -67,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f110e40dd02f7347",
+      "type": "text",
+      "text": "[[8-1 多元函数的基本概念]]",
+      "shape": "centered-rectangle",
+      "x": 161,
+      "y": -228,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3c5683f13f3f8e57",
+      "type": "text",
+      "text": "[[8-2 多元函数微分法]]",
+      "shape": "centered-rectangle",
+      "x": 168,
+      "y": -66,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5fc3e6b73555ccc2",
+      "type": "text",
+      "text": "[[8-3 多元函数的极值与最值]]",
+      "shape": "centered-rectangle",
+      "x": 166,
+      "y": 109,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "09c0e422ebf9e5a9",
+      "type": "text",
+      "text": "[[8-1 多元函数的基本概念#一、多元函数极限|多元函数极限]]",
+      "shape": "oval",
+      "x": 504,
+      "y": -362,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b67e634b4e761901",
+      "type": "text",
+      "text": "[[8-1 多元函数的基本概念#二、多元函数的连续性|多元函数连续性]]",
+      "shape": "oval",
+      "x": 494,
+      "y": -227,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "401acf2bd2f29ea5",
+      "fromNode": "5c325428fe0e05b4",
+      "fromSide": "right",
+      "toNode": "f110e40dd02f7347",
+      "toSide": "left"
+    },
+    {
+      "id": "fa6afa6715500590",
+      "fromNode": "5c325428fe0e05b4",
+      "fromSide": "right",
+      "toNode": "3c5683f13f3f8e57",
+      "toSide": "left"
+    },
+    {
+      "id": "e55271bd05651ba8",
+      "fromNode": "5c325428fe0e05b4",
+      "fromSide": "right",
+      "toNode": "5fc3e6b73555ccc2",
+      "toSide": "left"
+    },
+    {
+      "id": "502c2a3a60656aff",
+      "fromNode": "f110e40dd02f7347",
+      "fromSide": "right",
+      "toNode": "09c0e422ebf9e5a9",
+      "toSide": "left"
+    },
+    {
+      "id": "b4e73cf8f0d5295a",
+      "fromNode": "f110e40dd02f7347",
+      "fromSide": "right",
+      "toNode": "b67e634b4e761901",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
 }

@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "629ed0dc0e0533e5",
+        "id": "447223779c423d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd47c9c6c9a509b",
+            "id": "7ca2d47769296e76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1_函数，极限，连续/T4 数列极限的计算.md",
-                "mode": "source",
-                "source": false
+                "file": "1_函数，极限，连续/思维导图.canvas",
+                "viewState": {
+                  "x": 610.4306569343065,
+                  "y": 44.5,
+                  "zoom": -0.4906825526217372
+                }
               }
             }
           }
@@ -69,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "283056c60eeb293e",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_函数，极限，连续/T4 数列极限的计算.md",
+                "file": "1_函数，极限，连续/思维导图.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_函数，极限，连续/T4 数列极限的计算.md",
+                "file": "1_函数，极限，连续/思维导图.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_函数，极限，连续/T4 数列极限的计算.md"
+                "file": "1_函数，极限，连续/思维导图.canvas"
               }
             }
           }
@@ -147,59 +149,60 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bcd47c9c6c9a509b",
+  "active": "7ca2d47769296e76",
   "lastOpenFiles": [
-    "assets/img/c/3/2",
-    "assets/img/c/3",
-    "assets/img/c/3/2/c325db16bb6ef672121eb0815efe4387af9655343617c74e465d9b5a0068aa12.png",
-    "assets/img/0/c/9",
-    "assets/img/0/c/9/0c9132bc94e728f93c23e5d57f5e47165bf60f86a31f829ae2f92eb4cd0d7fda.png",
-    "assets/img/9/e/a",
-    "assets/img/9/e/a/9ea7d5e2490320b8a8078a16a759cb2cca2496ad7b47881256da83d2a6ef2f46.png",
-    "assets/img/f/e/3",
-    "assets/img/f/e/3/fe3ae37a160a39c701e41b005748fda026053f43715ab80ac5f4b3aaa0631c83.png",
-    "assets/img/2/e/f",
-    "assets/img/2/e",
-    "assets/img/2/e/f/2ef9fc63ab73bc99545b25df3796bc684628cc9b21f24278ff963617ed5e51e2.png",
-    "0_零碎知识/11.初等函数比大小.md",
+    "9_二重积分/思维导图.canvas",
+    "8_多元函数微分学/思维导图.canvas",
+    "8_多元函数微分学/T3 判断偏导数在某点处是否连续.md",
+    "2_导数与微分/思维导图.canvas",
+    "2_导数与微分/2-3 高阶导数.md",
+    "2_导数与微分/2-2 导数公式与求导法则.md",
+    "2_导数与微分/2-1 导数与微分的概念.md",
+    "1_函数，极限，连续/思维导图.canvas",
     "1_函数，极限，连续/T4 数列极限的计算.md",
-    "assets/img/8/6/e",
-    "assets/img/8/6/e/86ed37e1b26312828cb48bbcd15f9fbfd2c3d84c75f1bbffa75da5686eeaff0e.png",
-    "assets/img/e/b/8",
-    "assets/img/e/b/8/eb8963ef827965025f1d518686bd02456abe081a4913bb85387b93a1633f42e6.png",
-    "assets/img/c/1/d",
-    "assets/img/c/1",
-    "assets/img/c/1/d/c1d5e510ec92935323b7c84c8e6096f4e175931ead77605080446ac5e19b501e.png",
-    "assets/img/4/2/e/42e4d543d885820d2c556c38e4d8916c8927e1f32623254a0898ff2b95dc8484.png",
-    "assets/img/0/c/6/0c6dd32363257cfeb045578597c7ca95ab71a0ee9e07f37b6fbad2cdf49bc97c.png",
-    "0_零碎知识/9.不等式.md",
+    "assets/img/d/9/1",
+    "assets/img/d/9",
+    "assets/img/d/9/1/d91cffd4385dca4d2841da4cabc33db35e4482a4a25f8c1d9dedab92e5b65cd4.png",
+    "assets/img/7/b/6",
+    "assets/img/7/b/6/7b672433355d1ba7a62881ab3e83aecac1e35ff70511b09eb0d4f7fe8afc4cfb.png",
+    "assets/img/3/4/c",
+    "assets/img/3/4",
+    "assets/img/3/4/c/34c3cc6ae204cc17b8acfff79e5b10e870ee8aa4f63bea64605c768eaa157807.png",
+    "assets/img/d/d/c",
+    "assets/img/d/d",
+    "assets/img/d/d/c/ddcb6393173e82550b1b3338b4132e5c62e1a170cd86623b8dbe26cb5069cc02.png",
+    "assets/img/7/e/0",
+    "assets/img/7/e",
+    "assets/img/7/e/0/7e06b8055c2bf0b9079bbefdab974408a754bdfb8578c2e1400a10a070ce81c5.png",
+    "assets/img/b/5/3",
+    "assets/img/b/5/3/b53e09694374239396c18f4ccc66afca89007078b18195395e3fd077254331e3.png",
+    "assets/Pasted image 20240418174330.png",
+    "assets/img/3/1/d/31d7d0b510ddcb29a02168f86494f0ace6d012b3b54f82217d27f71997d58dbe.png",
+    "1_函数，极限，连续/1-2 极限.md",
+    "assets/image/Screenshot_2024-04-14_08-53-00.png",
+    "assets/image/2186f489bc0f9e79fcb20c466260aa2.jpg",
+    "1_函数，极限，连续/1-3 函数的连续性.md",
+    "1_函数，极限，连续/1-1 函数.md",
     "1_函数，极限，连续/T5 数列和的极限的计算.md",
     "1_函数，极限，连续/T3 函数极限计算.md",
+    "1_函数，极限，连续/T2 复合函数.md",
+    "1_函数，极限，连续/T1 函数性质的判定.md",
+    "0_零碎知识/9.基本不等式.md",
+    "0_零碎知识/6.幂指恒等式.md",
+    "0_零碎知识/8.等比数列无穷项求和.md",
+    "0_零碎知识/7.求根公式.md",
+    "0_零碎知识/5.反解三角函数.md",
+    "0_零碎知识/4.曲线.md",
+    "0_零碎知识/3.有理式分解.md",
+    "0_零碎知识/11.初等函数比大小.md",
+    "学习计划.md",
     "9_二重积分/9-1 二重积分的概念和性质.md",
     "9_二重积分/T2 嵌套式二重积分.md",
     "9_二重积分/9-2 二重积分的计算.md",
     "4_不定积分/4-4 三类常见可积函数积分.md",
-    "0_零碎知识/3.有理式分解.md",
-    "1_函数，极限，连续/T1 证明函数or数列性质.md",
-    "1_函数，极限，连续/T2 复合分段函数.md",
-    "1_函数，极限，连续/1-3 函数的连续性.md",
-    "1_函数，极限，连续/1-1 函数.md",
-    "1_函数，极限，连续/1-2 极限.md",
-    "4_不定积分/4-1 不定积分的概念与性质.md",
-    "5_定积分与反常积分/M1 区间再现公式.md",
     "5_定积分与反常积分/思维导图.canvas",
-    "5_定积分与反常积分/积分第一中值定理，积分第二中值定理.md",
-    "3_微分中值定理及导数应用/M1 泰勒公式.md",
-    "0_零碎知识/6.幂指恒等式.md",
-    "0_零碎知识/7.求根公式.md",
-    "0_零碎知识/5.反解三角函数.md",
-    "9_二重积分/M1 降维法.md",
     "7_微分方程/思维导图.canvas",
-    "7_微分方程/7-4 高阶线性微分方程.md",
-    "7_微分方程/7-2 一阶微分方程.md",
     "未命名.canvas",
-    "9_二重积分/思维导图.canvas",
-    "8_多元函数微分学/思维导图.canvas",
     "6_定积分应用/思维导图.canvas",
     "4_不定积分/思维导图.canvas"
   ]

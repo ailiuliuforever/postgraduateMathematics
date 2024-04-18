@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "b44bf076a434490d",
+      "type": "text",
+      "text": "导数与微分",
+      "shape": "circle",
+      "x": -520,
+      "y": -40,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dd59b75231dc5ec7",
+      "type": "text",
+      "text": "[[2-2 导数公式与求导法则]]",
+      "shape": "centered-rectangle",
+      "x": -160,
+      "y": -40,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "68929d8994931cf6",
+      "type": "text",
+      "text": "[[2-1 导数与微分的概念]]",
+      "shape": "centered-rectangle",
+      "x": -160,
+      "y": -400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "84aca65c0c40913c",
+      "type": "text",
+      "text": "[[2-1 导数与微分的概念#2. 微分的概念|微分的概念]]",
+      "shape": "oval",
+      "x": 200,
+      "y": -430,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c690032c82e19203",
+      "type": "text",
+      "text": "[[2-1 导数与微分的概念#3. 导数与微分的几何意义|导数与微分的几何意义]]",
+      "shape": "oval",
+      "x": 200,
+      "y": -350,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bc377a813760eb68",
+      "type": "text",
+      "text": "[[2-1 导数与微分的概念#4. 连续、可导、可微之间的关系|连续、可导、可微的关系]]",
+      "shape": "oval",
+      "x": 200,
+      "y": -270,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c63ef1990ed65568",
+      "type": "text",
+      "text": "[[2-1 导数与微分的概念#1.导数的概念|导数的概念]]",
+      "shape": "oval",
+      "x": 200,
+      "y": -510,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bf28c44696011cb4",
+      "type": "text",
+      "text": "[[2-3 高阶导数]]",
+      "shape": "centered-rectangle",
+      "x": -160,
+      "y": 340,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "cf47158b61956ade",
+      "edgePathRoute": "square",
+      "fromNode": "b44bf076a434490d",
+      "fromSide": "right",
+      "toNode": "68929d8994931cf6",
+      "toSide": "left"
+    },
+    {
+      "id": "d1e2f70818033d4a",
+      "edgePathRoute": "square",
+      "fromNode": "b44bf076a434490d",
+      "fromSide": "right",
+      "toNode": "dd59b75231dc5ec7",
+      "toSide": "left"
+    },
+    {
+      "id": "8ea972a84dec05cf",
+      "edgePathRoute": "square",
+      "fromNode": "b44bf076a434490d",
+      "fromSide": "right",
+      "toNode": "bf28c44696011cb4",
+      "toSide": "left"
+    },
+    {
+      "id": "86bf6dd4e839147c",
+      "edgePathRoute": "square",
+      "fromNode": "68929d8994931cf6",
+      "fromSide": "right",
+      "toNode": "c63ef1990ed65568",
+      "toSide": "left"
+    },
+    {
+      "id": "63263c096a2b4aa0",
+      "edgePathRoute": "square",
+      "fromNode": "68929d8994931cf6",
+      "fromSide": "right",
+      "toNode": "84aca65c0c40913c",
+      "toSide": "left"
+    },
+    {
+      "id": "e979a05c0d9a0074",
+      "edgePathRoute": "square",
+      "fromNode": "68929d8994931cf6",
+      "fromSide": "right",
+      "toNode": "c690032c82e19203",
+      "toSide": "left"
+    },
+    {
+      "id": "b1c807f20040be8c",
+      "edgePathRoute": "square",
+      "fromNode": "68929d8994931cf6",
+      "fromSide": "right",
+      "toNode": "bc377a813760eb68",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
