@@ -1,0 +1,14 @@
+{
+  "contextAwareMode": true,
+  "sourceSupport": true,
+  "codeHighlightSupport": true,
+  "inlineID": false,
+  "contextSeparator": " > ",
+  "deck": "高数公式",
+  "folderBasedDeck": false,
+  "flashcardsTag": "card",
+  "inlineSeparator": "::",
+  "inlineSeparatorReverse": ":::",
+  "defaultAnkiTag": "obsidian",
+  "ankiConnectPermission": true
+}
