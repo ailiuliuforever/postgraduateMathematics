@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "447223779c423d4c",
+        "id": "4ec8edfcba8f1bed",
         "type": "tabs",
         "children": [
           {
-            "id": "1af4034f0dbf4c05",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_定积分与反常积分/M1 反常积分审敛法.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "96ae1031eaf55ded",
+            "id": "f1364ccd6c04ce04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "9_二重积分/9-1 二重积分的概念和性质.md",
-                "mode": "source",
-                "source": false
+                "file": "5_定积分与反常积分/思维导图.canvas",
+                "viewState": {
+                  "x": -41.39387803737402,
+                  "y": -424.9319539653057,
+                  "zoom": -0.48656597153975073
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "压缩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.50390243530273
   },
   "right": {
     "id": "283056c60eeb293e",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9_二重积分/9-1 二重积分的概念和性质.md",
+                "file": "5_定积分与反常积分/思维导图.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9_二重积分/9-1 二重积分的概念和性质.md",
+                "file": "5_定积分与反常积分/思维导图.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9_二重积分/9-1 二重积分的概念和性质.md"
+                "file": "5_定积分与反常积分/思维导图.canvas"
               }
             }
           }
@@ -148,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,65 +147,67 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "96ae1031eaf55ded",
+  "active": "f1364ccd6c04ce04",
   "lastOpenFiles": [
     "5_定积分与反常积分/积分第一中值定理，积分第二中值定理.md",
-    "10_公式背诵/积分公式.md",
-    "assets/img/9/6/e",
-    "assets/img/9/6",
-    "assets/img/9/6/e/96e85d435d7625a0e027ac2d9035d60300d8a775e0a2eb72192e14f9de90aa9f.png",
-    "assets/img/a/a/8/aa823bdf06e822adcf351cee70fe3e91738ce2953027ce90fcf6e66a7b568940.png",
-    "5_定积分与反常积分/M1 反常积分审敛法.md",
-    "10_公式背诵/高数公式.md",
-    "10_公式背诵",
-    "1_函数，极限，连续/1-2 极限.md",
-    "0_零碎知识/1.立方和差公式.md",
+    "5_定积分与反常积分/T2 定积分的计算.md",
+    "assets/img/e/8/7",
+    "assets/img/e/8/7/e872dd5c01bae02a77dc205111ff10868c7e79080371c42d7de6d7728c03b048.png",
+    "assets/img/e/c/5",
+    "assets/img/e/c/5/ec5e884e253b5a0407a28cbd97874e35b75f437a09425e4eb868a5c59b6599a7.png",
+    "5_定积分与反常积分/5-1定积分.md",
     "0_零碎知识/2.三角函数公式.md",
-    "0_零碎知识/10.椭圆.md",
-    "0_零碎知识/9.基本不等式.md",
-    "0_零碎知识/8.等比数列无穷项求和.md",
-    "0_零碎知识/7.求根公式.md",
-    "0_零碎知识/6.幂指恒等式.md",
-    "0_零碎知识/4.曲线.md",
+    "assets/img/a/4/4",
+    "assets/img/a/4/4/a4402ada983a73c76d2b57b1da1345c4f63e1dc2d18c531e932bec00470ce5cc.png",
+    "assets/img/d/7/d",
+    "assets/img/d/7/d/d7db0ee2ab419b2d421463764c2f2e54a4dbaf2a67b0eafb3f032f2c8cba7b82.png",
+    "assets/img/6/7/2",
+    "assets/img/6/7",
+    "assets/img/6/7/2/67297a21600058bb0c6c708f838bba4fa5df0948f7c67fcbfa2ec0895cb48ad8.png",
+    "assets/img/0/e/4",
+    "assets/img/0/e/4/0e4bd10d7fd32ebdf9b8f511288e672030e079eb7694634bc5afb4afaa29d732.png",
+    "4_不定积分/4-4 三类常见可积函数积分.md",
+    "assets/img/3/f/8",
+    "assets/img/3/f/8/3f866ff7a56ed244b4707539dfbcb052d55337ffdfcb52cdec5d5f45f8b1bf81.png",
+    "assets/img/d/2/6",
+    "assets/img/d/2/6/d262a4b89088dd6f60c6024580468a735715d3743767ff757131288be7671cfa.png",
+    "10_线性代数/1-行列式.md",
+    "assets/img/4/0/f",
+    "assets/img/4/0/f/40fd144609312d355bc5811ffead81f750f96133b4030651223495aec05dc8f2.png",
+    "assets/img/3/e/3/3e3bfb2d82da6f1b0640e9a7e32673868669646f8f2cd458ac61ef284812cc17.png",
+    "4_不定积分/4-1 不定积分的概念与性质.md",
     "4_不定积分/4-3 三种主要积分法.md",
     "1_函数，极限，连续/T4 数列极限的计算.md",
-    "assets/img/7/0/8",
-    "assets/img/7/0/8/70897026e5b2488dbac887c2da4b5f91d743ba97e9736fb9834bc4ac81807314.png",
-    "assets/img/e/d/8",
-    "assets/img/e/d/8/ed84e262fc6a7879f07e7c8ac7e20911431c185fdc293373a5282705d0e4f436.png",
-    "assets/img/1/b/a",
-    "assets/img/1/b",
-    "assets/img/1/b/a/1ba79e06b8e2faf0aeb67b435e678e5a0adbee67f56c2d193f84c303c5efd6df.png",
-    "5_定积分与反常积分/T1 定积分比大小.md",
-    "assets/img/5/1/e",
-    "assets/img/5/1/e/51e8b99c4f125e6aab0287a3fe6e9a569fb939878e3ced41b7fed696bd62568f.png",
-    "assets/img/1/3/3",
-    "assets/img/1/3/3/1339ff3aeff26d0322fed091d5c1bd8f1b1627d73b1f1f8f2ce4037359e154bf.png",
-    "assets/img/b/f/2",
-    "assets/img/b/f/2/bf2cb963ad2095f5ad554feb14222899f86f538b3e4dd5b7d14f26a046419bf0.png",
-    "9_二重积分/9-1 二重积分的概念和性质.md",
-    "9_二重积分/T2 嵌套式二重积分.md",
-    "9_二重积分/T1 累次积分交换次序或计算.md",
-    "9_二重积分/M1 降维法.md",
-    "9_二重积分/9-2 二重积分的计算.md",
-    "8_多元函数微分学/T2 多元函数求极限.md",
-    "7_微分方程/思维导图.canvas",
-    "6_定积分应用/思维导图.canvas",
-    "5_定积分与反常积分/思维导图.canvas",
-    "assets/img/3/7/0/370eadc244c3501847ba26ba51fd1ced1e6589d0bf4d9da3acf9a581425d5ac3.png",
-    "assets/img/2/5/d/25dc957e0e09a54c496935b245bc3b5b5204ba20d79b55e8e1aefe55c032afa0.png",
-    "5_定积分与反常积分/M1 区间再现公式.md",
-    "7_微分方程/7-2 一阶微分方程.md",
-    "7_微分方程/M1 微分算子法.md",
-    "3_微分中值定理及导数应用/思维导图.canvas",
-    "1_函数，极限，连续/思维导图.canvas",
+    "0_零碎知识/5.反解三角函数.md",
+    "4_不定积分/思维导图.canvas",
+    "1_函数，极限，连续/T3 函数极限计算.md",
+    "3_微分中值定理及导数应用/T2 求渐近线.md",
+    "3_微分中值定理及导数应用/T1 极值,最值,凹向,拐点.md",
+    "3_微分中值定理及导数应用/3_2 导数应用.md",
+    "3_微分中值定理及导数应用/M1 泰勒公式.md",
+    "00_!!!!计算中出现的问题.md",
+    "11_公式背诵/极限公式.md",
+    "2_导数与微分/2-3 高阶导数.md",
+    "2_导数与微分/2-1 导数与微分的概念.md",
+    "2_导数与微分/2-2 导数公式与求导法则.md",
     "2_导数与微分/思维导图.canvas",
-    "9_二重积分/思维导图.canvas",
+    "0_零碎知识/9.基本不等式.md",
+    "8_多元函数微分学/8-2 多元函数微分法.md",
+    "1_函数，极限，连续/思维导图.canvas",
+    "1_函数，极限，连续/T2 复合函数.md",
+    "1_函数，极限，连续/T1 函数性质的判定.md",
+    "1_函数，极限，连续/1-3 函数的连续性.md",
+    "1_函数，极限，连续/1-2 极限.md",
+    "7_微分方程/思维导图.canvas",
     "8_多元函数微分学/思维导图.canvas",
-    "未命名.canvas",
-    "4_不定积分/思维导图.canvas"
+    "5_定积分与反常积分/思维导图.canvas",
+    "6_定积分应用/思维导图.canvas",
+    "3_微分中值定理及导数应用/思维导图.canvas",
+    "9_二重积分/思维导图.canvas",
+    "未命名.canvas"
   ]
 }

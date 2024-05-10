@@ -59,6 +59,15 @@
       "y": -227,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "4728a7709868b76c",
+      "x": -396,
+      "y": -433,
+      "width": 400,
+      "height": 202,
+      "type": "file",
+      "file": "assets/img/8/1/f/81f9fc722c1c65c6ffdfb64f507b2f3b96d38ec51750b91c49551887c83627c2.png"
     }
   ],
   "edges": [

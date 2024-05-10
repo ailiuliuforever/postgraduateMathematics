@@ -79,6 +79,33 @@
       "y": 340,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "e1444c8819f3c418",
+      "x": 162,
+      "y": 420,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": "[[2-3 高阶导数#2.泰勒展开求高阶导|2.泰勒展开求高阶导]]"
+    },
+    {
+      "id": "e2fd28bf1e3daba0",
+      "x": 162,
+      "y": 260,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": "[[2-3 高阶导数#1.常用的高阶导数公式|1.常用的高阶导数公式]]"
+    },
+    {
+      "id": "5d0d864d1fe74908",
+      "x": 162,
+      "y": 580,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": "[[2-3 高阶导数#3.高阶导数的性质|3.高阶导数的性质]]"
     }
   ],
   "edges": [
@@ -136,6 +163,30 @@
       "fromNode": "68929d8994931cf6",
       "fromSide": "right",
       "toNode": "bc377a813760eb68",
+      "toSide": "left"
+    },
+    {
+      "id": "a51be321b359934c",
+      "edgePathRoute": "square",
+      "fromNode": "bf28c44696011cb4",
+      "fromSide": "right",
+      "toNode": "e2fd28bf1e3daba0",
+      "toSide": "left"
+    },
+    {
+      "id": "c7cab8d91ec9e081",
+      "edgePathRoute": "square",
+      "fromNode": "bf28c44696011cb4",
+      "fromSide": "right",
+      "toNode": "e1444c8819f3c418",
+      "toSide": "left"
+    },
+    {
+      "id": "f3b3a67175eb9656",
+      "edgePathRoute": "square",
+      "fromNode": "bf28c44696011cb4",
+      "fromSide": "right",
+      "toNode": "5d0d864d1fe74908",
       "toSide": "left"
     }
   ],
